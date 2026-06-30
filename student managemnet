@@ -10,7 +10,7 @@ def add_student():
     student = {
         "Name": name,
         "Roll": roll,
-        "Marks": marks
+        "Marks": 97
     }
 
     students.append(student)
